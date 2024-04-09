@@ -1,0 +1,7 @@
+* Ways of web scrapping
+(i) Manually downloading each image
+(ii) Using python and google to scrap images/data
+(iii) Using chrome extensions/tools like Fatkun chrome extension
+(iv) Buying data from third party vendors .
+
+* For face detection we use haar cascade .
